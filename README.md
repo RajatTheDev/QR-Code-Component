@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-component-solution-mPIPHdT3dg)
 - Live Site URL: [Live Preview](https://rajatthedev.github.io/QR-Code-Component/)
 
 ## My process
